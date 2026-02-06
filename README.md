@@ -1,3 +1,4 @@
-# Python-Mini-Projects
-Repo for storing small python scripts or prototypes.
+# My Python Mini-Projects
+Personal repo for storing small python projects and prototypes.
 
+- Particle Swarm Optimization (PSO)
